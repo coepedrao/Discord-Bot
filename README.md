@@ -21,3 +21,6 @@ Vou explicar melhor alguns comandos disponíveis para você usar no seu próprio
 !buenas: Esse comando envia uma mensagem de boas-vindas aos usuários, criando um ambiente acolhedor e amigável.
 
 !comandos: Esse comando lista todos os comandos disponíveis no bot, para que os usuários possam explorar todas as funcionalidades oferecidas.
+
+
+Aproveite ao máximo todas essas funcionalidades e divirta-se em seu servidor! :)
