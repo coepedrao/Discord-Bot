@@ -274,12 +274,8 @@ async def buenas(ctx):
     await ctx.send('Cucurenas, indião!')
 
 @bot.command()
-async def vem(ctx):
-    await ctx.send('Lá vem o rio grande á cavalo')
-
-@bot.command()
 async def comandos(ctx):
-    await ctx.send('Che, por agora só temo esses aqui !play, !asordens, !contato, !perfil, !pila, !doar, !desafiar, !buenas, !vem e !comandos')
+    await ctx.send('Che, por agora só temo esses aqui !play, !asordens, !contato, !perfil, !pila, !doar, !desafiar, !buenas e !comandos')
 
 @bot.event
 async def on_member_join(member):
