@@ -1,6 +1,9 @@
 # Discord-Bot
 
 Esse bot para Discord foi projetado inteiramente em Python, usando diversas bibliotecas e métodos.
+
+
+
 Aqui explicarei melhor alguns comandos que temos para usar em seu próprio servidor.
 !play = O usuário que deseja ouvir música no Discord deve estar conectado a um canal de voz e usar o comando !play, seguido da URL da música escolhida.
 !asordens = O bot faz uso da API TMDB e recomenda um filme popular ao usuário que digitou o comando.
